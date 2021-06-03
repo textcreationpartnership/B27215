@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable, the Lord Mayor, and court of aldermen, of the city of London, at Guildhall-Chappel, August 18, 1678 by Robert Neville ...</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <extent>Approx. 42KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27215</idno><idno type="EEBO-CITATION">18483625</idno>
+  <idno type="VID">206552</idno>
+  <idno type="EEBO-PROQUEST">2248554288</idno>
+  
+            <idno type="STC">Wing N525</idno>
+            <idno type="OCLC">18483625</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206552)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1640:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable, the Lord Mayor, and court of aldermen, of the city of London, at Guildhall-Chappel, August 18, 1678 by Robert Neville ...</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>[1], 26, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Billingsley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement : p. [1] at end.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:206552:1"/>
+            <p>Imprimatur,</p>
+            <p>
+               <hi>Octob.</hi> 15. 1678.</p>
+            <p>
+               <hi>W. Jane.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:206552:1"/>
+            <p>A SERMON PREACHED Before the Right Honourable, THE Lord Mayor, AND Court of Aldermen, Of the City of <hi>LONDON,</hi> At <hi>Guildhall</hi>-Chappel, <hi>August</hi> 18. 1678.</p>
+            <p>By ROBERT NEVILLE, B. D. Late Fellow of <hi>King</hi>'s <hi>College</hi> in <hi>Cambridge,</hi> and now Rector of <hi>Ansty</hi> in <hi>Hertfordshire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Billingsley,</hi> at the Printing-Press in <hi>Cornhil,</hi> near the Royal Exchange. 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:206552:2"/>
+            <pb facs="tcp:206552:2"/>
+            <head>To the Worshipful My much Honoured Kinsman, EDWARD CHESTER, ESQUIRE, Of <hi>Cocken-hatch</hi> in the County of <hi>Hertford.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Learned and Famous Lord <hi>Ve<g ref="char:EOLhyphen"/>rulam,</hi> delivering his Opinion of the Dedication of Books, declares himself no Friend to Addresses of that Nature; be<g ref="char:EOLhyphen"/>cause Books ought to have no Patrons but Truth and Reason. But had that Right Honourable Personage received so many signal and noble Favours from any one, as you have liberally dispensed to me and mine, I am apt to believe he would himself have Licensed the Dedication of this Discourse to you, especially if I had first convinced him (as I could by many unanswe<g ref="char:EOLhyphen"/>rable Arguments, were he now living) that that Book which may be allowed to shelter it self under your Pa<g ref="char:EOLhyphen"/>tronage, may be truly said to have both Truth and Reason for its Patrons: Your great Truth, Justice and
+<pb facs="tcp:206552:3"/>Integrity, being as well known to all that have any Concerns with you, as your strong Reason is to those that dare attempt to converse you. But I fear, <hi>Sir,</hi> I commit a Rape upon your Modesty, and grow troublesom to you, by presenting you (though only) with this small Map of your Vertues, which I know you desire should rather be as a <hi>Terra incognita,</hi> than that many Eyes should travel over, and make disco<g ref="char:EOLhyphen"/>veries of them. I shall not therefore put you to the Penance of reading more of your own (though just) Commendations, but beg your Pardon for this Violence offered to your Nature, by forcing your Name from the Privacy of your so beloved Retirement into a publick View; the Grant whereof will be no small Accession to those Kindnesses and Favours, which have entitled you to the Publick Acknowledgments of,</p>
+            <closer>
+               <salute>Honoured Sir, </salute>
+               <signed>Your much obliged Kinsman, and faithful and humble Servant, <hi>ROB. NEVILLE.</hi>
+               </signed>
+               <dateline>Ansty, <date>
+                     <hi>Octob. 19. 1678.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:206552:3"/>
+            <head>A SERMON Preached before the LORD MAYOR, <hi>August</hi> 18. 1678.</head>
+            <epigraph>
+               <q>
+                  <bibl>The 9th of the Author to the <hi>Hebrews,</hi> Part of the 27th Verse.</bibl> —<hi>But after this the Judgment.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE World is now arrived to such a height of Scepticism and Prophaneness, as to de<g ref="char:EOLhyphen"/>light to unravel all Principles both of Reason and Religion: so that in this de<g ref="char:EOLhyphen"/>generate Age we are put upon the Proof of those things, which are so plain of themselves, that to endeavour to illustrate, or make them plainer, is but to lend Light to the Sun, or Water to the Sea. And such are these Principles, <hi>That God is,</hi> and <hi>All things were made by him.</hi> Which great and
+<pb n="6" facs="tcp:206552:4"/>Fundamental Principles of Religion, by the bold Ca<g ref="char:EOLhyphen"/>vils of wicked Atheists, we are forced to prove; Pro<g ref="char:EOLhyphen"/>fess'd Atheism being now set up, and the thing in fashi<g ref="char:EOLhyphen"/>on; it being now the only Badge and Signature of a Modern Wit, to be one of <hi>David</hi>'s Fools, and not only <hi>say in his Heart,</hi> but make publick Proclamation, <hi>that there is no God.</hi> And the <hi>Speculative Atheist,</hi> who, if he had any being at all, was, till this present Age, ei<g ref="char:EOLhyphen"/>ther under a Disguise, or else behind the Hangings, is not now afraid to pull off his Mask, his Disguise, and appear the Man that dares put Sarcasms upon God, and lampoon Religion upon the Publick Stage of the World. And those who are not such Proficients in <hi>Atheism,</hi> as to deny the Existence of a God, have yet arrived to so high a Degree of Wickedness, as to prosti<g ref="char:EOLhyphen"/>tute God's Mercy, the Queen of his Attributes, to their Lusts and Impieties, as if they had a design to baffle God's Veracity with his Clemency, and make his Long<g ref="char:EOLhyphen"/>suffering wear out the sence of his Justice. Through their Shallowness and Shortness of Discourse, they fool themselves into a presuming upon God's Mercy, resem<g ref="char:EOLhyphen"/>bling those prophane Persons St. <hi>Peter</hi> speaks of, who scoffed at the Principles of Religion, and derided the Expectations of a future Judgment, saying, 2 <hi>Pet.</hi> 3.4. <hi>Where is the Promise of his Coming? for since the Fathers fell asleep, all things continue as they were from the begin<g ref="char:EOLhyphen"/>ning of the Creation.</hi> To such as these let me return in Answer, that there is an After-reckoning to be paid in another World, the greatest Slaughter in the Tragedy of the Sinner being reserved for the last Act; Eternal Death, Hell, and Judgment are in the <hi>Catastrophe,</hi> and will (when this Life is ended) be usher'd in, and brought upon the Stage; which is sufficiently intima<g ref="char:EOLhyphen"/>ted to us in these words of my Text, <hi>But after this the
+<pb n="7" facs="tcp:206552:4"/>Judgment.</hi> The Scope and Importance of which Words will afford us this Proposition,</p>
+            <q>That after this Life there is a Judgment to come, or a future State of Reward and Punishment.</q>
+            <p>The Truth whereof I shall manifest and evince from these two Topicks.</p>
+            <p n="1">I. From <hi>Reason,</hi> or the Principles of Nature.</p>
+            <p n="2">II. From <hi>Scripture,</hi> and Divine Revelation.</p>
+            <p n="1">I. A Judgment to come, or a future State, may be proved from Reason, or the Principles of Nature. And hence it was, that every Sect of Men, that did prescribe Morality, did teach an After-Life. Nothing was more ge<g ref="char:EOLhyphen"/>nerally believed among the Heathens. Their Tribunal below, where three most severe Judges were appoint<g ref="char:EOLhyphen"/>ed, meant the same thing with our last Judgment; their <hi>Elizian Fields</hi> were but a Poetical Paradise; their <hi>Phlegethon,</hi> or River of Fire, was set to express our Lake of Fire and Brimstone. And
+<note n="(a)" place="margin">Animus noster habebit quod gratule<g ref="char:EOLhyphen"/>tur sibi, cum amissus fuerit tenebris, qui<g ref="char:EOLhyphen"/>bus volutatur, &amp; redditus Caelo fuerit.</note>
+               <hi>Seneca</hi> clearly points out a future State to us, wherein our Mind shall have sufficient cause to congratulate its own Happiness, when it shall be delivered out of that Darkness, in which it was here involved, and return again to Heaven. And
+<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Plato in Phae<g ref="char:EOLhyphen"/>done.</note>
+               <hi>Plato</hi> affirms, <hi>That Men live again after Death, and that good Mens Souls enter into a better, but evil Mens into a worse State than before.</hi> And the Historian <hi>Salust</hi> introduces <hi>Portius Cato,</hi> positively maintaining in a Speech of his to the Roman Senate, <hi>That after this Life ended, good and bad Men go to different Places, and the Wicked in particular into</hi>
+               <note n="(c)" place="margin">
+                  <hi>Diverso itinere malos à bonis, in loca tetra &amp; formi<g ref="char:EOLhyphen"/>dolosa malos.</hi> Salust. Bell. Catil.</note>
+               <hi>dis<g ref="char:EOLhyphen"/>ntal and dreadful Places of Misery and Torment.</hi> And
+<pb n="8" facs="tcp:206552:5"/>this he declares in opposition to no less a Man than <hi>Caius Caesar,</hi> who (in a Speech of his made just be<g ref="char:EOLhyphen"/>fore) prophanely affirmed, that <hi>after Death there was no Place, either for</hi>
+               <note n="(d)" place="margin">
+                  <hi>Ʋltra mortem neque curae, neque gaudio locum esse.</hi> ibid.</note>
+               <hi>Joy or Sorrow, Happiness or Misery.</hi> And <hi>Tully</hi>
+               <note n="(e)" place="margin">
+                  <hi>Duas esse vias, dupli<g ref="char:EOLhyphen"/>cés{que} cursus animorum è corpore exce<g ref="char:EOLhyphen"/>dentium: nam qui se humanis viti<g ref="char:EOLhyphen"/>is contami<g ref="char:EOLhyphen"/>nâssent, &amp; se totos libidinibus dedissent, vel in Republicâ violandâ fraudes inexpiabiles concepis<g ref="char:EOLhyphen"/>sent, iis devium quoddam iter esse, seclusum à concilio Deorum. Qui autem se in<g ref="char:EOLhyphen"/>tegros castós{que} servâssent, quibus{que} fuisset minima cum corporibus contagio, essént{que} in corporibus humanis vitam imitati Deorum, his ad illos à quibus essent profecti facilem reditum patere.</hi> Tusc. Quaest. <hi>lib.</hi> 1.</note> introduces <hi>Socrates</hi> arguing after this manner: <q rend="margQuotes">That there are two Ways of departing Souls, leading to two contrary States of Felicity and Misery: Those who had defiled themselves with sensual Vices, let loose the Reins to their Lusts, and been injurious to the Common-wealth, are dragg'd to a Place of Torment, and for ever excluded from the blessed Society above; but those who had kept their Integrity and Chastity, whilst united to the Bo<g ref="char:EOLhyphen"/>dy, and had imitated the Divine Life of the Celestial Inhabitants, by an easy and open way returned to that God, from whom they first came.</q>
+            </p>
+            <p>The Notion of a future Judgment is so obvious to the Capacity of every Natural Man, that when St. <hi>Paul,</hi> (Acts 24.25.) reasoned about it, <hi>Felix,</hi> though a Heathen, trembled at it. And the same Apostle dis<g ref="char:EOLhyphen"/>coursing to the <hi>Athenians,</hi> (the great Lights of the Gentile World) and teaching them the seventh Article of our Creed, <hi>Acts</hi> 17.31. <hi>That God hath appointed a Day in which he will judge the World:</hi> Though he found some that mocked, when they heard of the Re<g ref="char:EOLhyphen"/>surrection of the Dead, yet there were none that ob<g ref="char:EOLhyphen"/>jected
+<pb n="9" facs="tcp:206552:5"/>any thing against the Day of Judgment. That was an Universal Principle, acknowledged and con<g ref="char:EOLhyphen"/>fess'd by all, who either believed themselves, or a God, or a Conscience. And <hi>Aristotle</hi> (the Prince of Philosophers) grants, that there are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, some things absolutely good, so good, that a Man should rather quit his own Life than the Practice of them: Some things again he affirms to be absolutely evil; so evil, that, rather than them, a Man ought to make Death and Torments the Objects of his Choice; and such Evils are, Treason against our Country, In<g ref="char:EOLhyphen"/>cest, Perjury, and the like. Now this great Philoso<g ref="char:EOLhyphen"/>pher in affirming this, is necessarily concluded by his own Principles to grant another Life to come, much better and happier than this to the Good and Vertuous, and another State of Life, much worse than Death for unjust and vitious Persons. Nor do his own Princi<g ref="char:EOLhyphen"/>ples onely, but those of Nature also, lead him to this; for every thing that hath a Being, does by an indis<g ref="char:EOLhyphen"/>pensible Law of Nature, desire the Continuance of that being, but most of all its Well-being, or bettering its present State. Now if Mens Hopes or Fears were ter<g ref="char:EOLhyphen"/>minated in this Life, as they must, unless we grant a future State, every Man were obliged in reason to seek the Preservation of his own Life before all other things; and no Action could be unjust, no Practice culpable, whereby he endeavoured the Continuation of his present being; because nothing could be so ill to him as Death, or the having no being, and nothing so good as Life. But for a Man to act basely and unworthily to save his Life, was disallowed by the very Heathens; and that, because they saw by the Light of Nature, that there was a future State of Rewards and Punishments; a Sence whereof caused that famous
+<pb n="10" facs="tcp:206552:6"/>Heathen, <hi>Attilius Regulus,</hi> to endure a most cruel and painful Death, rather than betray his Country, or break his Oath; which he would never have done, had he not been of the same Opinion with <hi>Tully,</hi> when he said, <hi>That the Death of famous Men was as it were a</hi>
+               <note n="(f)" place="margin">
+                  <hi>Quandam quasi migrati<g ref="char:EOLhyphen"/>onem commu<g ref="char:EOLhyphen"/>tationémque vitae, quae claris viris dux in caelum soleret esse.</hi> Tuscul. Quaest. lib. 1.</note>
+               <hi>Passage, or Change of Life, which was wont to be their Convoy to Heaven and Happiness.</hi> So that you cannot but discern, that this Persuasion of a future State is so natural to our Reason, that even Heathens were not without it; it being not indeed imaginable, that God should not have given all Men sufficient Proofs and Arguments of so important a Principle of Religion as this is.</p>
+            <p>As for those Persons, upon whose Ease and Sensu<g ref="char:EOLhyphen"/>ality a future State seems to cast no favourable Aspect, we may expect that all such should bribe their Consci<g ref="char:EOLhyphen"/>ences to disbelieve it. The Drunkard, who neither must nor can keep the remembrance of his Cups, can<g ref="char:EOLhyphen"/>not endure to apprehend he must be called to an ac<g ref="char:EOLhyphen"/>count of them. The Man, whose Lust prevents the Grave, and who drops by piece-meal into rotten Dust, before he returns to Earth, must needs be un<g ref="char:EOLhyphen"/>willing that there should be a Resurrection, to collect the scatter'd, the foul Atoms of his Sin, and his Disease, and shew them at that Tribunal, before God, his holy Angels, and Mankind. And <hi>Athenagoras</hi> hath given it for a Rule, That the denying of the Resurrection, and another Life, is the
+<note n="(g)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Athenag.</hi> de resurrectione mortuorum.</note> only beloved Doctrine of the voluptuous Epicure; and he that hath once transformed himself into that Swine, hath his Optick Nerves so ill placed, that (as <hi>Plutarch</hi> observes of other Swine) he never sees Heaven again, till he be laid on his Back, never till then thinks of a Judgment
+<pb n="11" facs="tcp:206552:6"/>to come; the Certainty whereof may appear to any sober, considerative, though meer Moral Man, from these three things:
+<list>
+                  <item>1. The unequal Distribution of Rewards and Pu<g ref="char:EOLhyphen"/>nishments in this World.</item>
+                  <item>2. Those natural Hopes and Expectations, which good Men have of a State of perfect Hap<g ref="char:EOLhyphen"/>piness.</item>
+                  <item>3. Those natural Fears, which wicked Men usual<g ref="char:EOLhyphen"/>ly have of a State of Torment.</item>
+               </list>
+            </p>
+            <p>First, The Certainty of a future State may appear, from the unequal Distribution of Rewards and Punishments in this World.</p>
+            <p>Nothing is more generally received, than that God is good and just, that good Actions shall be crowned with Rewards, and evil Actions chastised with Tor<g ref="char:EOLhyphen"/>tures and Punishments. And yet we see the Dispensa<g ref="char:EOLhyphen"/>tions of Providence so unequally distributed in this Life, that Rewards are not correspondent to the Ver<g ref="char:EOLhyphen"/>tues, nor Punishments proportionable to the Sins of Men; but that, <hi>Eccles.</hi> 9.2. <hi>There is one Event to the Righteous, and to the Wicked.</hi> Therefore we must in Reason conclude, either that the Judge of all the Earth does not do Right; or else, that there is a <hi>Judg<g ref="char:EOLhyphen"/>ment to come,</hi> in which he will give undeniable Proofs of his Justice, by rewarding every one according to his Works. 'Tis true indeed, that Vertue may be said to reward, and Vice to inflict and punish it self,
+<pb n="12" facs="tcp:206552:7"/>in regard of those Satisfactions which attend the one, and those Troubles that accompany the other: but these are such kinds of Rewards and Punishments, which (unless Men were supported by the Hopes of a future State) would never encourage them to over<g ref="char:EOLhyphen"/>come those Difficulties, which sometimes they meet in the ways of Vertue; it being impossible, that the most entire Possession of Vertue should always in this Life be a sufficient Reward to it self, or able to countervail all the Costs and Grievances, with which the best Men may be charged and oppress'd. So that Vertue in this Life is a sufficient Reward to it self, only <hi>in Spe,</hi> in Hope, in Reversion; not <hi>Re,</hi> not actually, and for the present; only so far as our cer<g ref="char:EOLhyphen"/>tain Hope of another Life is inseparably wedded to the Practice of Vertue in this. And this brings me to the second thing, from which the Certainty of a fu<g ref="char:EOLhyphen"/>ture State may appear; and that is, </p>
+            <p>Secondly, Those Natural Hopes and Expectations, which good Men have of a State of perfect Happiness.</p>
+            <p>This State is the Object of their greatest Ambition; and if we consider, that the Attainment of it in this Life is above the Sphere of Possibility, we must then con<g ref="char:EOLhyphen"/>clude, that this perfect and compleat Happiness is the Reward of another Life; otherwise Mankind must be defeated of its greatest Expectancies, be frustrated of its chief End, by being naturally and strongly in<g ref="char:EOLhyphen"/>clined to such a Degree and State of Happiness, as it can never be Master of; as if Man were designedly made, to be ground between those two Passions of Desire and Despair; between an unsatiable Desire
+<pb n="13" facs="tcp:206552:7"/>of Happiness, and an Impossibility of enjoying what he so earnestly desires and pursues.</p>
+            <p>Thirdly, The Certainty of a future State may ap<g ref="char:EOLhyphen"/>pear from those Natural Fears, which wicked Men usually have of a State of Torment, and of a Judgment to come.</p>
+            <p>God hath set up a Candle (as the Wise Man calls <hi>Reason</hi>) in the Souls even of Natural Men; and by this Light, they that sit in Darkness, the prophanest <hi>Atheists</hi> in the World, at one time or other behold themselves as wicked Malefactors, and God as a severe and terrible Judge. This Candle of Reason, or Na<g ref="char:EOLhyphen"/>tural Conscience, may burn dim, being compass'd about with the damp of Mens Corruptions; but it can no more be put out, than the Light of the Sun; and this principal Ray or Beam of our Souls, this Judge within us, could not be so suspicious of our Actions, nor so inquisitive after every Circumstance, that may aggravate our Sins, were it not deputed by the Supreme Judge of Heaven and Earth, to bring us to a further Judgment. And though there will be a General Day of the great and last Judgment, when Christ Jesus shall mount the Tribunal, and sit as a Judge; yet every day he keeps a private Sessions in our own Breasts, where Conscience sits as his Deputy or Vicegerent. So that as often as this invisible Judge gives its Charge within us, and rouzes and awakens us with any Admonitions, or Instructions, any Checks or Reprehensions, we must not think them the meer Effects of Natural Melancholy, nor study for Expe<g ref="char:EOLhyphen"/>dients, how to darken the Mind, divert Thought, and fence out Reflection; but look upon them as
+<pb n="14" facs="tcp:206552:8"/>seasonable Warnings to prepare our selves to answer all those Endictments and Accusations, that shall be drawn up, and brought in against us, at the Great and General <hi>Assizes</hi> of the Day of Judgment.</p>
+            <p>Now these Natural Fears of a future Judgment do usually seize upon all kinds of Men, even those who have been placed as the most shining and glorious Lights, in the Highest Orb of Dignity and Government. And we may find in the Histories of all Ages, that Kings and Potentates have been no more Proof against the Alarms of Conscience, and the Terrors of a future State than other Men. Whence it came to pass, that the <hi>Roman</hi> Emperour, <hi>Tiberius,</hi> in spite of his great For<g ref="char:EOLhyphen"/>tunes, his strong Guards, and his several Divertisements at <hi>Capreae,</hi> could not but confess in his Letters to the <hi>Ro<g ref="char:EOLhyphen"/>man Senate,</hi>
+               <note n="(h)" place="margin">Tacit. Annal. 6.</note>
+               <hi>Tormenta Pectoris, suás{que} Poenas;</hi> the Tortures and Punishments his Soul endured to be such, that he thought the Gods could not inflict greater. Now what was it that did extort from him this Confession of his Tortures, but the Horror of a future State? there being nothing else that one in his Circumstances, of Power and Greatness, should have need to stand in fear of.</p>
+            <p>And what again was the reason that the Emperour <hi>Nero,</hi> notwithstanding all his singing and rioting through the chiefest Cities of his Empire, had yet the <hi>Guilt of his Impieties,</hi> to <hi>interrupt</hi> his Pleasures? What made him <hi>tremble</hi> in the Temples of the Gods, as if the Powers above had appeared like revenge<g ref="char:EOLhyphen"/>ful Furies
+<note n="(i)" place="margin">
+                  <hi>Facinorum recordatione nunquam ti<g ref="char:EOLhyphen"/>more vacuus.</hi> Tacit. An. 14.</note> to his conscious and guilty Spirit? What, I say, was the reason of it, but a fear of an <hi>After-reckoning</hi> in another State, for his prodigious and
+<pb n="15" facs="tcp:206552:8"/>lewd Impieties? For (as a late
+<note n="*" place="margin">Dr. <hi>Cra<g ref="char:EOLhyphen"/>dock</hi> in his Sermon on <hi>Ec<g ref="char:EOLhyphen"/>cles.</hi> 9.2. prea<g ref="char:EOLhyphen"/>ched before the King, <hi>Feb.</hi> 10.</note> Author hath with great strength of Reason told us) <q rend="margQuotes">The Conside<g ref="char:EOLhyphen"/>ration of the Day of Judgment, rather with De<g ref="char:EOLhyphen"/>spair than Hope, is the Reason why the Wicked are so ill governed, and often so unhappy in their Prosperity, and so comfortless in Affliction.</q> And as <hi>Antipheron,</hi> through a Disease in his Eye, thought he always had his own Image before him: So wicked Men (be they never so great) will sometimes have before them the ugly Image of their Sin, and the hideous Shape of that Punishment which is feared and expected by them in another World. <hi>Hae sunt impiis assiduae domesticae{que} Furiae,</hi> says the Roman Orator; These are the Furies that follow those guilty Men with Torches, and flesh Hell-sire into their Faces, and so fear and distract their Minds, that <hi>Plato</hi> concludes, that if their Breasts
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plato</hi> lib. 9. de Rep.</note> were trans<g ref="char:EOLhyphen"/>parent, we should see such Wheals and Gashes upon their Minds, as Rods of Iron, and Scourges of Steel make upon the mangled Bodies of condemned Malefactors.</p>
+            <p>Nor indeed can the most obdurate Sinners, who use all their endeavours to suppress the Thoughts of a future State, so stifle and check them, but that they will haunt and pursue them. And as there is no Man living, that is wholly quit of the Fears of future Misery after Death; so there is no Creature but Man, that is molested by them: For which, if there be no sufficient Ground or Reason, we must then impeach the great Creator of the World, for making Man alone a needless Torment and Burthen to himself.</p>
+            <pb n="16" facs="tcp:206552:9"/>
+            <p>And as those strange Disorders in the Souls and Minds of Men, do indicate and proclaim a future Judgment; so also those little Disorders and Altera<g ref="char:EOLhyphen"/>tions in Nature, (such as are frightful Eruptions from the Earth, wonderful Eclipses of the Lights of Heaven, the strange Fires sometimes discovered in the Air, the mighty Tremblings of the Earth) may seem (like <hi>Jerusalem</hi> pictured upon a Tile by the Prophet) as little Maps and Imitations, as Essays and Assurances of that dreadful Confusion, which shall cover the whole Face of Nature at the last Day of Judgment, and as kinds of <hi>Praeludia</hi> to that Day, <hi>when the Sun shall be clothed with Darkness, and the Elements shall melt with fervent Heat; and the Earth, with all the Works therein, shall be burnt up.</hi>
+            </p>
+            <p>And thus having proved a <hi>Judgment to come,</hi> from <hi>Reason,</hi> and the Principles of <hi>Nature,</hi> I come now to prove it,</p>
+            <p>II. From <hi>Scripture,</hi> and <hi>Divine Revelation.</hi>
+            </p>
+            <p>'Tis true indeed, that Temporal Things are more expresly insisted upon in the Promises and Threat<g ref="char:EOLhyphen"/>nings of the Old Testament, by reason of the Grosness and Dulness of the <hi>Jews,</hi> who doting very much upon sensible things, were therefore more easy to be wrought upon by such Proposals. But that these things were never designed as the chief Motives of Religion, may appear from the several Calamities that fell upon some of the best Men of those Ages. So that to have made the Promises of Temporal Felicities, the chief Supports and Pillars of
+<pb n="17" facs="tcp:206552:9"/>their Faith, had been the ready way to undermine it, and a sufficient Motive to them to disbelieve those Promises, which by their own woful experi<g ref="char:EOLhyphen"/>ence they had found false. The principal Evidence therefore of a future Judgment, is to be found in the New Testament, where 'tis said, 2 <hi>Cor.</hi> 5.10. <hi>That we must appear before the Judgment-Seat of Christ, that every one may receive the Things done in his Body, according to that he hath done, whether it be good or bad.</hi> And that, 2 <hi>Tim.</hi> 1.10. <hi>Christ hath brought Life and Immortality to Light through the Gospel.</hi> And in the Verse of my Text, <hi>It is appointed to Men once to die, but after this, the Judgment.</hi>
+            </p>
+            <p>Being then thus perswaded of a future Judgment, of what Rock and Adamant must that Heart be made, which will not tremble with <hi>Felix?</hi> What a strange thing is it, that as in <hi>Arabia</hi> the Ice and Chrystal are congealed by the power of Divine Fire, and not by Cold, as
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Diodorus</hi> tells us; so these icy Chrystal Hearts of ours should be frozen by that Fire of Heaven, which shall melt and dis<g ref="char:EOLhyphen"/>solve the World at the Day of Judgment? Especi<g ref="char:EOLhyphen"/>ally if we consider, that the Great Judge, who shall then pass Sentence upon us, hath these three Pro<g ref="char:EOLhyphen"/>perties to represent him dreadful to us, which can hardly center and meet together in any Person here upon Earth;
+<pb n="18" facs="tcp:206552:10"/>
+               <list>
+                  <item>1. <hi>Clear Knowledge.</hi>
+                  </item>
+                  <item>2. <hi>Entire Justice.</hi>
+                  </item>
+                  <item>3. <hi>Ʋncontrollable Power.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The great Judge of Heaven and Earth hath <hi>Clear Knowledge.</hi>
+            </p>
+            <p>Want of clear Evidence sometimes puts Men to a <hi>melius inquirendum,</hi> to a second Enquiry, and makes the Judg (as the Custom was among the <hi>Romans</hi>) write a <hi>Non liquet,</hi> and the Jury (as amongst us) confess an <hi>Ignoramus.</hi> But this cannot without Blasphemy be affirmed of the great Judge of Hea<g ref="char:EOLhyphen"/>ven and Earth, who is Omniscient, who is of the Privy-Council to all our Thoughts; he needs no other Evidence, no other Witness than our most secret Thoughts against us; the darkest Corners of our Hearts are open and known to him. <hi>He is greater than our Hearts, and knoweth all things,</hi> 1 John 3.20. Masks, Paintings, and Disguisings, in other things, if they add no Beauty, yet they conceal Deformities; but in relation to God, all this Cost and Labour is lost. Nothing is more de<g ref="char:EOLhyphen"/>formed in the Eye of God, than a periwigg'd painted Sinner, than a carnal Man talking of the Spirit, than a Wolf in Sheeps Clothing, than a wicked Man (like that wicked Woman in the <hi>Proverbs</hi>) wiping his Mouth, and saying, I have done no evil. He can see <hi>Jeroboam's</hi> Wife in her Disguise, and the Devil in <hi>Samuel</hi>'s Mantle.</p>
+            <pb n="19" facs="tcp:206552:10"/>
+            <p>From God no Cloud can shadow us, no Deep can cover us, no Mountain can hide us. He saw <hi>Adam,</hi> though he hid himself. He found out <hi>Cain</hi>'s bloody Crime, when no Man impeached or accused him. <hi>Achan</hi>'s Sacrilege was closely carried, yet God's Eye was upon him: and though <hi>David</hi> drew the Curtains, and carried his Adultery with <hi>Bathsheba</hi> as private as he could, yet God discover<g ref="char:EOLhyphen"/>ed him. He can <hi>search Jerusalem with Candles,</hi> Zeph. 1.12. pry into the most concealed secret Sin.</p>
+            <p>Let the Pretences of our Actions be never so fair, yet God first or last will pull off their Mask and Disguise, and shew them as they are to the World.</p>
+            <p>I have read of one <hi>Phryne,</hi> a fair Curtezan, that feasting one day among her Companions, she re<g ref="char:EOLhyphen"/>commended to them this Sport and Divertisement, namely, <hi>That whatsoever one did, all the rest should follow, and do the same.</hi> To which when they had all consented, <hi>Phryne</hi> calls for Water, and washes her Face, whose Example all the rest follow; which when they had done, they appeared wrinkled and deformed, because they were painted; but she (as having used no such Art) seemed much the fairer. Now as the Latin Poet tells us,
+<q>Ludit in humanis Divina Potentia rebus;</q>
+            </p>
+            <pb n="20" facs="tcp:206552:11"/>
+            <p>And 'tis a kind of Sport and Recreation to God, to discover false Play among Men, to wash off the fair Colours from foul Actions, as well to expose the Actor to the Scorn of the World, as to shew the Beauty of his own Knowledg.</p>
+            <p>
+               <hi>Philip</hi> of <hi>Macedon</hi> displaced a Magistrate for colouring his Beard, as suspecting that he might colour a Cause too. But this Trade of painting and colouring Causes, is no Trade, either of Repute or Advantage, since the outward Paint cannot conceal the internal Evil from the Knowledg of God; who if he does not presently wash off the Paint here, will be so just as to punish the Painter at the Day of Judgment.</p>
+            <p>And this brings me to the second Property, that represents the great Judge of Heaven and Earth terrible to us; and that is,</p>
+            <p n="2">2. <hi>Entire Justice.</hi>
+            </p>
+            <p>An Earthly Judge or Magistrate may (like <hi>Ly<g ref="char:EOLhyphen"/>simachus</hi>) patronize and defend Injustice, and like those Judges in <hi>Beersheba,</hi> spoken of in 1 <hi>Sam.</hi> 8.3. He may <hi>turn aside after filthy Lucre, take Bribes, and pervert Judgment,</hi> and in trying a Cause be no less biassed than <hi>Tully</hi> was by his Love to <hi>Pompey,</hi> when he let fall these words, so very ill becoming the Mouth of a great Consul and Orator of <hi>Rome, The Love of</hi>
+               <note n="*" place="margin">
+                  <hi>Tantùn amor erga</hi> Pompeium <hi>a<g ref="char:EOLhyphen"/>pud me valet, ut quae illi uti<g ref="char:EOLhyphen"/>lia sunt, &amp; quae ille vult, mihi jam omnia &amp; vera &amp; recta vide<g ref="char:EOLhyphen"/>antur.</hi> Tull. Epist. lib. 1. Epist. 8. ad <hi>Lentulum,</hi>
+               </note> Pom<g ref="char:EOLhyphen"/>pey <hi>is so prevalent with me, that I cannot but make his Profit and Advantage the Standard of Justice, and take
+<pb n="21" facs="tcp:206552:11"/>my Measures from what is pleasing to him, not from what is really just and right.</hi>
+            </p>
+            <p>Earthly Magistrates may be partial, and respect Persons, not Causes. Thus <hi>Philip Comines</hi> com<g ref="char:EOLhyphen"/>plains, that many Mens Offices and Lands were ta<g ref="char:EOLhyphen"/>ken from them for running away in the Battel be<g ref="char:EOLhyphen"/>tween <hi>Lewis</hi> the Eleventh, and the <hi>Burgundians,</hi> and given to those who ran nine Miles further than they.</p>
+            <q>Dat veniam Corvis, vexat censura Columbas.</q>
+            <p>Here in earthly Courts of Judicature, Innocence may sometimes be under the Lash, when Guilt es<g ref="char:EOLhyphen"/>capes without a Blow. The Eye of Partiality over<g ref="char:EOLhyphen"/>looks great Ones, and only kills the small and puny Offenders. Thus <hi>Saul</hi> destroys the common People, but spares their King; the unprofitable poor Vulgar must die, but <hi>Agag</hi> may procure vast Sums of Money for his Ransom, therefore he shall live: But no such Injustice can be found in the <hi>Judge of all the Earth.</hi> Justice is one of his inse<g ref="char:EOLhyphen"/>parable <hi>Attributes,</hi> it is <hi>Essential</hi> to him; he dwells with Justice, <hi>Psal.</hi> 89.14. <hi>Justice and Judgment are the Habitation of his Throne.</hi> Nay, he is <hi>Justice</hi> it self.</p>
+            <p>Justice in God is no Quality, that may be got and lost again; but it is his very Nature and Es<g ref="char:EOLhyphen"/>sence. Deny him to be Just, and ye deny him to be God. And can there flow any Injustice from
+<pb n="22" facs="tcp:206552:12"/>the pure Fountain of Justice? <hi>Gen.</hi> 18.25. <hi>Shall not the Judge of all the Earth do Right?</hi>
+            </p>
+            <p>3. A third Property of the Judge of all the Earth, which may render him terrible to us, is, His <hi>Ʋncontrollable Power,</hi> which no earthly Judg can pretend to.</p>
+            <p>Here upon Earth, the Criminal may be too great to be crush'd by the <hi>Hand of Justice,</hi> he may <hi>out<g ref="char:EOLhyphen"/>grow the Power of the Laws.</hi> The <hi>Leviathan</hi> may be too strong to have a <hi>Hook put in his Nostrils.</hi> A Mans Greatness may protect his Wickedness, and screen him from the heat of the Magistrates Zeal against Vice; or he may find shelter from the Storms and Showers of Justice, under the Shadow of some <hi>Royal Oak;</hi> his <hi>Princes</hi> Favour may guard him from the Stroke of Justice. But none of these Cases are incident in the ways of God's proceed<g ref="char:EOLhyphen"/>ing. He is (<hi>Jerem.</hi> 32.18.) the <hi>Great, the Mighty God.</hi> He is greater than the greatest of Men, <hi>Job</hi> 33.12.</p>
+            <p>God is greater than Man, he is not to be hector'd or outbrav'd by any Sin, be it never so Universal. It is not a <hi>Multitude</hi> that can <hi>countenance</hi> and up<g ref="char:EOLhyphen"/>hold Iniquity against him; for it is not only true which the <hi>Prophet</hi> saith, <hi>That a thousand Years with him are but as one Day:</hi> But in the Case we now speak of, a whole World with him are no more than one Man.</p>
+            <pb n="23" facs="tcp:206552:12"/>
+            <p>
+               <hi>Caligula,</hi> the Emperour, cruelly wish'd, that all the People of <hi>Rome</hi> had but one Neck, that he might strike it off at a Blow: So when the great Judge of Heaven and Earth shall execute Judgment upon Sinners, all the World hath before him (as it were) but one Neck; and if it please him, (as it did once under <hi>Noah</hi>) he will strike it off at a Blow.</p>
+            <p>We have not such a God in the New Testament, as <hi>Marcion</hi> the Heretick fancied to himself, <hi>Qui solis literis prohibet</hi>
+               <note place="margin">Tertull. <hi>adv.</hi> Marcion. <hi>lib.</hi> 1. <hi>cap.</hi> 27.</note>
+               <hi>delinquere;</hi> who gives no further Check and Restraint to Sin, than by Words and Let<g ref="char:EOLhyphen"/>ters; that fears to condemn what he cannot but dis<g ref="char:EOLhyphen"/>allow, or that hath not power to punish what he hath forbid. For though Man by Sin runs away from his God, yet he is still in his Chain; and though he may have put on the Devils Livery, yet he is still within the verge and reach of God's Power, who can deliver him up to Satan, and make his new Master whom he serves, his Goaler, his Execu<g ref="char:EOLhyphen"/>tioner.</p>
+            <p>I beseech you then tell me, Do you believe that God is such a Judge as he hath been represented to you? Or, are you yet fully perswaded that there is a Judgment to come? Do you firmly and hearti<g ref="char:EOLhyphen"/>ly believe, that for every vitious Act, every shame<g ref="char:EOLhyphen"/>less loud Riot, every boistrous Oath or Rage, eve<g ref="char:EOLhyphen"/>ry Neglect of God's Worship, every Act of Inju<g ref="char:EOLhyphen"/>stice, God will one day bring you to Judgment? If you believe this, and yet venture upon such dange<g ref="char:EOLhyphen"/>rous
+<pb n="24" facs="tcp:206552:13"/>Courses, you are the most daring and despe<g ref="char:EOLhyphen"/>rate Persons in the World; and you have Cou<g ref="char:EOLhyphen"/>rage enough (as <hi>Curtius</hi> did into the Gulph or Lake at <hi>Rome</hi>) to ride in a full Career into the Gulph or Lake of Fire and Brimstone; or with <hi>Theseus,</hi> to go down into Hell, and skirmish and duel with the Fiends there. Let me therefore for once set up an infamous Trade, read you a Lecture of Cowar<g ref="char:EOLhyphen"/>dise, and assure you, that this Doctrine of a Judgment to come may be allowed to chill your Blood with Fear, and put you into an Ague of trembling; and that it may consist very well with the greatest Courage and Gallantry, to fear Him who can cast both Soul and Body into Hell. For would it not daunt and amaze the stoutest Man that ever breathed, to look upon Death, when he can see nothing but Hell and Judgment beyond it? When the Apparition at <hi>Endor</hi> told <hi>Saul, To morrow thou and thy Sons shall be with me;</hi> these words did so strangely perplex and confound him, that he fell to the Ground, and <hi>there was no more Strength left in him.</hi> Now these Torments are as certainly yours, if you continue in any unjust or vitious Practice, as if a flamy Messenger from Hell, mounted in his Vehicle of Fire and Brimstone, should now come and declare it to you.</p>
+            <p>When <hi>Popilius,</hi>
+               <note n="*" place="margin">
+                  <hi>Prinsquam hoc circulo ex<g ref="char:EOLhyphen"/>cedas, redde respousum Se<g ref="char:EOLhyphen"/>natui quod re<g ref="char:EOLhyphen"/>feram.</hi> Liv. decad 5. l. 5.</note> by order of the Roman Senate, required <hi>Antiochus</hi> to withdraw his Army from the King of <hi>Egypt,</hi> and he desired time to deliberate upon it, <hi>Popilius</hi> drew a Circle about him with his Wand, and said, <hi>Give me your Answer, and
+<pb n="25" facs="tcp:206552:13"/>final Resolution, which I may return to the Senate, be<g ref="char:EOLhyphen"/>fore you stir out of this Circle.</hi>
+            </p>
+            <p>The Day of Judgment is making its Approaches towards you, and you must now, before you go out of the Circle of this World, resolve, whether you will withdraw from the Service of Sin and Sa<g ref="char:EOLhyphen"/>tan, and thereby make it prove to you a joyful and an happy Day.</p>
+            <p>You of this City have already felt the weight of God's heavy Hand in his Temporal Judgments; but beware (I beseech you) how you come under the Lash of his everlasting Tortures and Punishments at the last and dreadful Judgment.</p>
+            <p>Many of you have seen the <hi>Pale Horse</hi> St.
+<note n="*" place="margin">Rev. 6.8.</note>
+               <hi>John</hi> speaks of, prancing about this City, with one upon his Back whose Name was <hi>DEATH,</hi> who rode in Triumph through this great <hi>Metropolis</hi> of our Na<g ref="char:EOLhyphen"/>tion, attended with a large Train of dead Corps, and plaid the Tyrant in so cruel a manner, as to keep Men Prisoners first in their own Houses, and then remove them thence with an <hi>Habeas Corpus,</hi> to the <hi>Grave,</hi> his Prison, his House of Darkness; so that it might have been said of this poor City, as it was once of <hi>Egypt, That there was scarce a House in which some one or other was not dead.</hi>
+            </p>
+            <p>And after that God (remembring Mercy in the midst of Judgment) had dismounted this <hi>King of Terrors,</hi> and caused him to set up his <hi>Pale Horse</hi> in
+<pb n="26" facs="tcp:206552:14"/>his proper Stable, as having done Excecution e<g ref="char:EOLhyphen"/>nough upon him; yours, and the whole Nations Sins so provoked his Wrath, and enflamed his An<g ref="char:EOLhyphen"/>ger, which (by the removal of the Pestilence) seem'd extinct and quenched, as to make him cast his Fireballs amongst you, and consume the Beauty and Glory of our Nation with a flaming Destructi<g ref="char:EOLhyphen"/>on. And O that you could have seen by the Light of those Flames the <hi>Things that belong to your Peace,</hi> lest (like the Inhabitants of <hi>Jerusalem</hi> spoken of by the
+<note n="*" place="margin">Ezek. 15.7, 8.</note> Prophet) you may be said to have <hi>gone out from one Fire, and that another shall devour you;</hi> lest you should seem to be as
+<note n="‖" place="margin">Amos 4.11.</note>
+               <hi>Firebrands,</hi> pluck'd out of a <hi>Temporal,</hi> to be cast into <hi>Everlasting Fire</hi> at the Day of Judgment, into a <hi>Fire that is not</hi>
+               <note n="*" place="margin">Mark 9.44.</note>
+               <hi>quenched;</hi> a Fire, in comparison where<g ref="char:EOLhyphen"/>of the <hi>Babylonian Furnace,</hi> seven times hotter than usual, was but a cool Shade, and a <hi>Place of Refreshment.</hi> And the great and dreadful Conflagration this populous City did so tremble at, was but as a small Spark to that Infernal <hi>Tophet,</hi> but a painted Fire to those everlasting Burnings.</p>
+            <p>You will therefore, I hope, accept of my De<g ref="char:EOLhyphen"/>votion, who am a Citizen by Birth, and a Na<g ref="char:EOLhyphen"/>tive of this Parish where I now stand, if (that you may escape the Condemnation of the last Judgment) I put up to the Throne of Grace the same Petition for you and my self, which St. <hi>Paul</hi> did for his Friend <hi>Onesiphorus,</hi>
+               <note n="*" place="margin">2. Tim. 1.18.</note>
+               <hi>The Lord grant, that we may find Mercy of the Lord in
+<pb n="27" facs="tcp:206552:14"/>that Day,</hi> that great and terrible Day of Judg<g ref="char:EOLhyphen"/>ment; and that having our Sins wash'd away with the Tears of Repentance, and the Blood of Christ, which <hi>speaks better Things than the Blood of Abel,</hi> we may all be
+<note n="*" place="margin">Ephes. 2.19.</note>
+               <hi>Fellow-Citizens with the Saints,</hi> and of the Houshold of God, in the highest Heavens; into which we beseech Almighty GOD to receive us all, for the sake of Jesus Christ the Righteous; to whom, with the Father, and the Holy Ghost, be ascribed by us, all Honour, Glory, Praise, Power, Might, Majesty, and Dominion, both now and for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:206552:15"/>
+            <head>BOOKS sold by <hi>Benjamin Billingsley,</hi> at the Printing-Press in <hi>Cornhil.</hi>
+            </head>
+            <p>REsolves Divine, Moral, Political: The tenth Im<g ref="char:EOLhyphen"/>pression: With several new Additions, both in Prose and Verse, not extant in the former Impression. By <hi>Owen Feltham,</hi> Esq; <hi>In folio.</hi>
+            </p>
+            <p>ΠΑΝΣΕΒΕΙΑ, or a View of all Religions in the World, with the several Church-Governments from the Creation, till these times. Also a Discovery of all known Heresies, in all Ages and Places: And choice Observations and Re<g ref="char:EOLhyphen"/>flections throughout the whole. Enlarged, and perfected by <hi>Alexander Ross.</hi> To which is annexed the Lives, Acti<g ref="char:EOLhyphen"/>ons, and Ends of certain notorious Hereticks, with their Effigies in Copper-Plates. In <hi>Octavo.</hi>
+            </p>
+            <p>Of Baptism, and the Lord's Supper. Two short Dis<g ref="char:EOLhyphen"/>courses, opening the Nature, Design, and Ends of those two great Gospel-Ordinances; and teaching the Holiness, and Improvement of them. In <hi>Twelves.</hi>
+            </p>
+            <pb facs="tcp:206552:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
